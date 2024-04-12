@@ -1,12 +1,7 @@
-import streamlit as st
-from PIL import Image, ImageDraw, ImageFont
-import time
-import streamlit as st
-import folium
-import pandas as pd
-from streamlit_folium import folium_static
-import json
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-from math import pi
+streamlit
+Pillow
+folium
+pandas
+streamlit_folium
+matplotlib
+seaborn
